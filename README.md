@@ -28,7 +28,7 @@ You can also install it directly from a git repo in any future project, the
 same way you'd `remotes::install_github()` in R:
 
 ```bash
-pip install git+https://github.com/<you>/glcmfeatures.git
+pip install git+https://github.com/balazsan/glcmfeatures.git
 ```
 
 ## Usage
